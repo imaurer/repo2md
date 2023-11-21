@@ -138,4 +138,8 @@ cython_debug/
 # PyCharm
 .idea/
 
+# todo: auto-include?
 repo2md_output
+.gitignore
+.repo2md_ignore
+*.pdf

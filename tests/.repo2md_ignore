@@ -1,0 +1,3 @@
+*.log
+*.repo2md_ignore
+__pycache__/
